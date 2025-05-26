@@ -1,0 +1,4 @@
+--Sistema de Gestion de Biblioteca--
+
+Durante el desarrollo del ejercicio, optamos por trabajar mediante el lenguaje de programación JAVA en el IDK NetBeans, haciendo uso de los arreglos unidimensionales para guardar en una "base de datos temporal" los usuarios registrados en nuestro sistema, en este arreglo guardaremos los usuarios a los cuales cada uno se le atribuyen cierta información, como  lo son datos básicos como (nombre, apellido, correo, identificación, teléfono), en el caso de los libros, haremos uso de las listas unidimensionales, una lista de libros donde (su nombre lo indica) vamos a guardar los distintos libros que procedamos a generar, así como en el arreglo, cada libro se le atribuye información, datos básicos de cada uno como lo son (nombre, autor, fecha, país, estado).
+
